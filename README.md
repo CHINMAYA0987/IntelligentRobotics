@@ -2,7 +2,9 @@
 ASSIGNMENT-1
 LIVE SIMULATION OF BUG, PRM AND RRT*
 
-        TIme   Length
-RRT     0.47    33.34
-PRM     0.46    30.67
-Bug     0.09    29.33
+| Algorithm | Time (s) | Distance |
+| --------- | -------- | -------- |
+| RRT*      | 0.47     | 33.34    |
+| PRM       | 0.46     | 30.67    |
+| Bug       | 0.09     | 29.33    |
+
