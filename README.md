@@ -1,7 +1,8 @@
 # INTELLIGENT ROBOTICS
 ASSIGNMENT-1
 LIVE SIMULATION OF BUG, PRM AND RRT*
-For live simulation visualization remove all the comments and run
+
+// For live simulation visualization remove all the comments and run //
 
 | Algorithm | Time (s) | Distance |
 | --------- | -------- | -------- |
