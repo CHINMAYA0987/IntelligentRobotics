@@ -10,3 +10,10 @@ LIVE SIMULATION OF BUG, PRM AND RRT*
 | PRM       | 0.46     | 30.67    |
 | Bug       | 0.09     | 29.33    |
 
+
+![RRT Simulation](RRT.png)
+
+![PRM Simulation](PRM.png)
+
+![Bug Simulation](Bug.png)
+
